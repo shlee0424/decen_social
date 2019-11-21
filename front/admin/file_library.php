@@ -1,4 +1,4 @@
-<?    $save_dir="assets/data";
+<?    $save_dir="assets/data/boardImg";
 //   $save_dir="C:\inetpub\wwwroot\moksa\PDS";
     
     //파일 업로드 함수

@@ -111,6 +111,12 @@
       $('[data-toggle="offcanvas"]').on('click', function () {
         $('.offcanvas-collapse').toggleClass('open')
       })
+      $( ".navbar-nav .nav-item").each(function( index ) {
+        $(this).removeClass("active");
+      });
+
+      $(".navbar-nav .nav-item .nav-link").eq(1).addClass("active");
+      
     })
 
     $(function () {

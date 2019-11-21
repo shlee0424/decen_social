@@ -7,9 +7,9 @@
     <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">회원 리스트</a>
+          <a class="nav-link" href="member-list.php">회원 리스트</a>
         </li>
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="product-list.php">상품 리스트</a>
         </li>
         <li class="nav-item">
